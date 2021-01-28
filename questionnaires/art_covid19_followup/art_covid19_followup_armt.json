@@ -8,19 +8,19 @@
         "select_choices_or_calculations": [
             {
                 "code": "1",
-                "label": "A new, continuous cough "
+                "label": " A new, continuous cough "
             },
             {
-                "code": "2",
-                "label": "High temperature "
+                "code": " 2",
+                "label": " High temperature "
             },
             {
-                "code": "3",
-                "label": "Loss or change to your sense of smell or taste "
+                "code": " 3",
+                "label": " Loss or change to your sense of smell or taste "
             },
             {
-                "code": "4",
-                "label": "None of the above"
+                "code": " 4",
+                "label": " None of the above"
             }
         ],
         "field_note": "",
@@ -151,19 +151,19 @@
         "select_choices_or_calculations": [
             {
                 "code": "1",
-                "label": "A new, continuous cough "
+                "label": " A new, continuous cough "
             },
             {
-                "code": "2",
-                "label": "High temperature "
+                "code": " 2",
+                "label": " High temperature "
             },
             {
-                "code": "3",
-                "label": "Loss or change to your sense of smell or taste "
+                "code": " 3",
+                "label": " Loss or change to your sense of smell or taste "
             },
             {
-                "code": "4",
-                "label": "None of the above"
+                "code": " 4",
+                "label": " None of the above"
             }
         ],
         "field_note": "",
@@ -252,15 +252,15 @@
         "select_choices_or_calculations": [
             {
                 "code": "1",
-                "label": "Self-isolation (stayed at home because you had or might have had Coronavirus) "
+                "label": " Self-isolation (stayed at home because you had or might have had Coronavirus) "
             },
             {
-                "code": "2",
-                "label": "Shielding (followed advice to stay home to avoid getting the virus because you are high risk for Coronavirus) "
+                "code": " 2",
+                "label": " Shielding (followed advice to stay home to avoid getting the virus because you are high risk for Coronavirus) "
             },
             {
-                "code": "3",
-                "label": "None of these"
+                "code": " 3",
+                "label": " None of these"
             }
         ],
         "field_note": "",
@@ -286,23 +286,23 @@
         "select_choices_or_calculations": [
             {
                 "code": "1",
-                "label": "Full-time "
+                "label": " Full-time "
             },
             {
-                "code": "2",
-                "label": "Part-time at home and part-time at my usual work/study place "
+                "code": " 2",
+                "label": " Part-time at home and part-time at my usual work/study place "
             },
             {
-                "code": "3",
-                "label": "Not at all (full time at my usual work/study place) "
+                "code": " 3",
+                "label": " Not at all (full time at my usual work/study place) "
             },
             {
-                "code": "4",
-                "label": "Not currently working due to Coronavirus "
+                "code": " 4",
+                "label": " Not currently working due to Coronavirus "
             },
             {
-                "code": "5",
-                "label": "Not applicable"
+                "code": " 5",
+                "label": " Not applicable"
             }
         ],
         "field_note": "",
@@ -328,19 +328,19 @@
         "select_choices_or_calculations": [
             {
                 "code": "1",
-                "label": "Full-time "
+                "label": " Full-time "
             },
             {
-                "code": "2",
-                "label": "Part-time "
+                "code": " 2",
+                "label": " Part-time "
             },
             {
-                "code": "3",
-                "label": "Not at all (children have continued to attend school/nursery) "
+                "code": " 3",
+                "label": " Not at all (children have continued to attend school/nursery) "
             },
             {
-                "code": "4",
-                "label": "Not applicable"
+                "code": " 4",
+                "label": " Not applicable"
             }
         ],
         "field_note": "",
@@ -366,19 +366,19 @@
         "select_choices_or_calculations": [
             {
                 "code": "1",
-                "label": "Full-time "
+                "label": " Full-time "
             },
             {
-                "code": "2",
-                "label": "Part-time "
+                "code": " 2",
+                "label": " Part-time "
             },
             {
-                "code": "3",
-                "label": "Not at all (ill relative/friend has received external care support) "
+                "code": " 3",
+                "label": " Not at all (ill relative/friend has received external care support) "
             },
             {
-                "code": "4",
-                "label": "Not applicable"
+                "code": " 4",
+                "label": " Not applicable"
             }
         ],
         "field_note": "",
@@ -404,15 +404,15 @@
         "select_choices_or_calculations": [
             {
                 "code": "1",
-                "label": "Not at all affected "
+                "label": " Not at all affected "
             },
             {
-                "code": "2",
-                "label": "Somewhat affected "
+                "code": " 2",
+                "label": " Somewhat affected "
             },
             {
-                "code": "3",
-                "label": "Very affected"
+                "code": " 3",
+                "label": " Very affected"
             }
         ],
         "field_note": "",
@@ -438,15 +438,15 @@
         "select_choices_or_calculations": [
             {
                 "code": "1",
-                "label": "Not at all restricted "
+                "label": " Not at all restricted "
             },
             {
-                "code": "2",
-                "label": "Somewhat restricted "
+                "code": " 2",
+                "label": " Somewhat restricted "
             },
             {
-                "code": "3",
-                "label": "Very restricted"
+                "code": " 3",
+                "label": " Very restricted"
             }
         ],
         "field_note": "",
@@ -472,15 +472,15 @@
         "select_choices_or_calculations": [
             {
                 "code": "1",
-                "label": "Not at all preoccupied "
+                "label": " Not at all preoccupied "
             },
             {
-                "code": "2",
-                "label": "Somewhat preoccupied "
+                "code": " 2",
+                "label": " Somewhat preoccupied "
             },
             {
-                "code": "3",
-                "label": "Very preoccupied"
+                "code": " 3",
+                "label": " Very preoccupied"
             }
         ],
         "field_note": "",
